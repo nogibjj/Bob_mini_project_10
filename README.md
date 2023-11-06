@@ -10,9 +10,9 @@ In summary, PySpark is an essential tool in the big data ecosystem, enabling eff
 For more information, please find it [here](https://spark.apache.org/docs/latest/api/python/index.html)
 
 ### Code Description
-```{
-ip
-}
+* Install ```PySpark``` in the notebook
+```
+!pip install pyspark
 ```
 
 ### CI/CD Automation File
