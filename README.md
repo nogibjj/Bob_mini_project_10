@@ -1,4 +1,4 @@
-[![CI](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/Bob_mini_project_10/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Bob_mini_project_10/actions/workflows/cicd.yml)
 ## Mini Project 10: Student Stress Factor Analysis using PySpark 
 
 ### Summary
