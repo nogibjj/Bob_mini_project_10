@@ -10,9 +10,25 @@ In summary, PySpark is an essential tool in the big data ecosystem, enabling eff
 For more information, please find it [here](https://spark.apache.org/docs/latest/api/python/index.html)
 
 ### Code Description
-* Install ```PySpark``` in the notebook
+* Install ```PySpark``` in the notebook. Configure the Spark context in your Python script to interact with Spark.
 ```
 !pip install pyspark
+```
+* Import ```PySpark```
+```
+import pyspark
+```
+* Satrt with a spark session. 
+```
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.appName('student').getOrCreate()
+```
+* EDA analysis
+![output](https://github.com/nogibjj/Bob_mini_project_10/assets/141781876/bb05d407-19e1-46ae-b7c6-0bf03e6f1f6d)
+
+* At the end, close the session
+```
+spark.stop()
 ```
 
 ### CI/CD Automation File
