@@ -32,5 +32,5 @@ spark.stop()
 ```
 
 ### CI/CD Automation File
-
+<img width="1017" alt="Screenshot 2023-11-05 at 23 51 10" src="https://github.com/nogibjj/Bob_mini_project_10/assets/141781876/336c4e61-bc34-4739-a182-b2eb171fba7e">
 
